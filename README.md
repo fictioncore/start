@@ -13,17 +13,16 @@ This is meant to help you figure out the sources you should go look up. By all m
 	<input name="keywords">
 	<input type="submit">
 </form>
-</p>
-<br </br>
+
+<br> </br>
 <p>
-<p><b>Crunchbase Search - Enter the name of the company you want to search for</b></p>
-</p>
+<p><b>Crunchbase</b> Search - Enter the name of the company you want to search for</p>
 
 <form target="_blank" action="https://www.crunchbase.com/app/search">
 	<input name="q">
 	<input type="submit">
 </form>
-<br </br>
+<br> </br>
 <p> You should also be extremely concerned about any bad news that makes it to Google </p>
 
 <p> Go ahead, type something like "Uber Layoffs" below</p>
