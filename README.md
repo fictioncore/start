@@ -13,7 +13,7 @@
 <p><b>Crunchbase Search - Enter the name of the company you want to search for</b></p>
 
 <form target="_blank" action="https://www.crunchbase.com/organization/">
-	<input name="">
+	<input name="q">
 	<input type="submit">
 </form>
 
