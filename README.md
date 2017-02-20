@@ -3,10 +3,17 @@
 <html>
 <body>
 
-<p><b>Here's some drop dead easy tyhings to do some research</b></p>
+<p><b>LinkedIn Search - Enter the name of the company you want to search for</b></p>
 
 <form action="https://www.linkedin.com/vsearch/p">
 	<input name="keywords">
+	<input type="submit">
+</form>
+
+<p><b>Crunchbase Search - Enter the name of the company you want to search for</b></p>
+
+<form action="https://www.crunchbase.com/app/search">
+	<input name="q">
 	<input type="submit">
 </form>
 
