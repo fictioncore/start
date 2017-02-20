@@ -26,9 +26,9 @@ This is meant to help you figure out the sources you should go look up. By all m
 
 <p> You should also be extremely concerned about any bad news that makes it to Google </p>
 
-<form target="_blank" action="https://www.google.com/">
+<p> Go ahead, type something like "Uber Layoffs" below</p>
+<form target="_blank" action="https://www.google.com/&tbm=nws">
 	<input name="q">
-	<input placeholder="Type something like Uber Layoffs">
 	<input type="submit">
 </form>
 
